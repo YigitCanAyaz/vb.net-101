@@ -7,6 +7,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HelloWorld", "HelloWorld\He
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "OutputAndVariables", "OutputAndVariables\OutputAndVariables.vbproj", "{9E87248F-2E2C-4DD6-8578-D5E180BDB0BC}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CollectUserInput", "CollectUserInput\CollectUserInput.vbproj", "{2C155562-051C-434A-93E4-133684C92751}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9E87248F-2E2C-4DD6-8578-D5E180BDB0BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E87248F-2E2C-4DD6-8578-D5E180BDB0BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E87248F-2E2C-4DD6-8578-D5E180BDB0BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C155562-051C-434A-93E4-133684C92751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C155562-051C-434A-93E4-133684C92751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C155562-051C-434A-93E4-133684C92751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C155562-051C-434A-93E4-133684C92751}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -31,6 +31,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ArrayVariables", "ArrayVari
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LinearSearch", "LinearSearch\LinearSearch.vbproj", "{E2C0175B-C260-48F8-896B-2AFEC2BFA315}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TwoDimensionalArrays", "TwoDimensionalArrays\TwoDimensionalArrays.vbproj", "{BB94E6B3-8AFE-492E-805F-C980BB03EBD0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{E2C0175B-C260-48F8-896B-2AFEC2BFA315}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2C0175B-C260-48F8-896B-2AFEC2BFA315}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2C0175B-C260-48F8-896B-2AFEC2BFA315}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB94E6B3-8AFE-492E-805F-C980BB03EBD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB94E6B3-8AFE-492E-805F-C980BB03EBD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB94E6B3-8AFE-492E-805F-C980BB03EBD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB94E6B3-8AFE-492E-805F-C980BB03EBD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

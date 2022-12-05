@@ -13,6 +13,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Arithmetic", "Arithmetic\Ar
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ComplexArithmetic", "ComplexArithmetic\ComplexArithmetic.vbproj", "{6EC80E08-54E2-4CC2-A063-EA45B4F3D9A6}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Selection", "Selection\Selection.vbproj", "{040A9649-BDBC-431C-8118-B0449E64B3ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{6EC80E08-54E2-4CC2-A063-EA45B4F3D9A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6EC80E08-54E2-4CC2-A063-EA45B4F3D9A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6EC80E08-54E2-4CC2-A063-EA45B4F3D9A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{040A9649-BDBC-431C-8118-B0449E64B3ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{040A9649-BDBC-431C-8118-B0449E64B3ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{040A9649-BDBC-431C-8118-B0449E64B3ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{040A9649-BDBC-431C-8118-B0449E64B3ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
